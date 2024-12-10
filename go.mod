@@ -1,4 +1,4 @@
-module github.com/markandrus/s3readerat
+module github.com/dolzenko/s3readerat
 
 go 1.23.4
 
